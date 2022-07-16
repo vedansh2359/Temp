@@ -40,7 +40,7 @@
 				justify-content: center;
 }
 .welcome {
-				background: url("../Img/main.jpg") no-repeat center center/cover;
+				background: url("main.jpg") no-repeat center center/cover;
 			height: 100 vh;
 			border-radius: 5vh;	
 			margin: 1vh;		
